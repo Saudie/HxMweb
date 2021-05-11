@@ -182,7 +182,4 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-function popup {
-  var popup = document.getElementById("myPopup");
-  popup.classList.toggle("show");
-}
+alert("Message à afficher");
