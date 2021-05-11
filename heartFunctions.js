@@ -182,4 +182,4 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-alert("Message à afficher");
+alert("Bienvenue sur Human Ex Machina. Pour le bon déroulement de l'expérience, connectez-vous à l'enceinte et augmentez le volume de votre téléphone. C'est parti !");
