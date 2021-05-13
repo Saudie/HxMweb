@@ -1,4 +1,4 @@
-// Author: Solène Delvaux & François Palud
+// Authors: Solène Delvaux & François Palud
 // Date: May 2021
 
 var mediaPlayer;
